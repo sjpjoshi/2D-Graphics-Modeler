@@ -1,10 +1,3 @@
-/*
- * vector.h
- *
- *  Created on: Dec 1, 2016
- *      Author: jkath
- */
-
 #ifndef VECTOR_H_
 #define VECTOR_H_
 
