@@ -54,6 +54,11 @@ Welcome to the 2D/3D Graphics Modeler project in QT C++! This application provid
 8. **Save and Load Changes**
    - Save and load changes made on the project.
 
+ Here's an image:
+
+![Project Image](https://github.com/sjpjoshi/2D-Graphics-Modeler/blob/main/example.png)
+
+
 ## Usage
 
 This graphics modeler is designed to provide a user-friendly experience similar to popular modeling tools like Blender, Unreal, or other game engines. The user interface, navigation controls, and feature set are inspired by these industry-standard tools, ensuring a familiar modeling experience for users.
